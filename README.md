@@ -2,8 +2,8 @@
 Siemano, nie umiem w githuba ale łapcie takie coś.
 Aby przetestować swój program:
 1. Wrzuć w jeden folder plik 'testerka.sh', foldery '/in' i '/out', swój program nazwany 'kostka_rubika.c' oraz flagi kompilacji w pliku 'opcje'.
-2. (NIE ZNAM SIE WIEC NIE WIEM CZY TO POTRZEBNE) Nadaj uprawnienia do uruchamiania tego skryptu pisząc w terminalu 'chmod -x testerka.sh'
-3. Uruchom testerkę komendą './testerka.sh'
+2. (NIE ZNAM SIE WIEC NIE WIEM CZY TO POTRZEBNE) Nadaj uprawnienia do uruchamiania tego skryptu pisząc w terminalu 'chmod -x testerka.sh'.
+3. Uruchom testerkę komendą './testerka.sh'.
 4. Czekaj cierpliwie.
 Testerka ta sama kompiluje program, przy kompilacji nadając wartość N. Program jest testowany w valgrindzie, więc testowanie trochę zajmuje.
 Testy wygladają następująco:
