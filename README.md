@@ -6,8 +6,8 @@ Aby przetestować swój program:
 3. Uruchom testerkę komendą './testerka.sh'.
 4. Czekaj cierpliwie.
 Testerka ta sama kompiluje program, przy kompilacji nadając wartość N. Program jest testowany w valgrindzie, więc testowanie trochę zajmuje.
-Testy wygladają następująco:
-1-3 - testy z moodla, program kompiluje się bez definiowania N.
+Testy wygladają następująco: \n
+1-3 - testy z moodla, program kompiluje się bez definiowania N. \n
 4-10 - kostka 1x1x1, parę testów z ręki.
 11-100 - kostka 2x2x2.
 101-200 - kostka 3x3x3.
