@@ -15,7 +15,7 @@ Testy wygladają następująco:
 ...  
 801-900 - kostka 10x10x10.  
 
-Liczba komend w jednym tescie to losowa liczba z przedziału [5, (i - (N - 2) * 100) * 2 + 5), gdzie 'i' to numer testu a 'N' - liczba ścian.
+Liczba komend w jednym tescie to losowa liczba z przedziału [5, i - (N - 2) * 100) * 2 + 5), gdzie 'i' to numer testu a 'N' - liczba ścian.
 Wzorek wygląda dziwnie, ale chodzi o to by dla każdego N pierwsze testy były mniejsze, za to ostatnie wieksze (chociaż no niekoniecznie musi tak być przez to ze to wartość losowa).
 
 To chyba tyle, pozdrawiam!
